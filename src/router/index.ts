@@ -38,6 +38,11 @@ const router = createRouter({
       name: 'dark-page',
       component: () => import('../views/DarkTheme.vue'),
     },
+    {
+      path: '/marked',
+      name: 'marked-page',
+      component: () => import('../views/MarkedView.vue'),
+    },
   ],
 });
 

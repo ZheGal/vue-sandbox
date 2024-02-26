@@ -1,0 +1,9 @@
+{
+  "title": "Title",
+  "login": "Login",
+  "password": "Password",
+  "theme": {
+    "dark": "Dark theme",
+    "light": "Light theme"
+  }
+}
